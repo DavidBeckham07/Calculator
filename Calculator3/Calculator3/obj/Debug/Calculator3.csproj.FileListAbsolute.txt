@@ -1,0 +1,15 @@
+D:\学习\C#\Calculator3\Calculator3\bin\Debug\Calculator3.exe.config
+D:\学习\C#\Calculator3\Calculator3\bin\Debug\Calculator3.exe
+D:\学习\C#\Calculator3\Calculator3\bin\Debug\Calculator3.pdb
+D:\学习\C#\Calculator3\Calculator3\obj\Debug\Calculator3.csprojAssemblyReference.cache
+D:\学习\C#\Calculator3\Calculator3\obj\Debug\MainWindow.g.cs
+D:\学习\C#\Calculator3\Calculator3\obj\Debug\App.g.cs
+D:\学习\C#\Calculator3\Calculator3\obj\Debug\Calculator3_MarkupCompile.cache
+D:\学习\C#\Calculator3\Calculator3\obj\Debug\Calculator3_MarkupCompile.lref
+D:\学习\C#\Calculator3\Calculator3\obj\Debug\MainWindow.baml
+D:\学习\C#\Calculator3\Calculator3\obj\Debug\Calculator3.g.resources
+D:\学习\C#\Calculator3\Calculator3\obj\Debug\Calculator3.Properties.Resources.resources
+D:\学习\C#\Calculator3\Calculator3\obj\Debug\Calculator3.csproj.GenerateResource.cache
+D:\学习\C#\Calculator3\Calculator3\obj\Debug\Calculator3.csproj.CoreCompileInputs.cache
+D:\学习\C#\Calculator3\Calculator3\obj\Debug\Calculator3.exe
+D:\学习\C#\Calculator3\Calculator3\obj\Debug\Calculator3.pdb
