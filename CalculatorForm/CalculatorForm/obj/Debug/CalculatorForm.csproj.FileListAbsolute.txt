@@ -1,0 +1,15 @@
+D:\学习\C#\CalculatorForm\CalculatorForm\bin\Debug\CalculatorForm.exe.config
+D:\学习\C#\CalculatorForm\CalculatorForm\bin\Debug\CalculatorForm.exe
+D:\学习\C#\CalculatorForm\CalculatorForm\bin\Debug\CalculatorForm.pdb
+D:\学习\C#\CalculatorForm\CalculatorForm\obj\Debug\CalculatorForm.csprojAssemblyReference.cache
+D:\学习\C#\CalculatorForm\CalculatorForm\obj\Debug\MainWindow.g.cs
+D:\学习\C#\CalculatorForm\CalculatorForm\obj\Debug\App.g.cs
+D:\学习\C#\CalculatorForm\CalculatorForm\obj\Debug\CalculatorForm_MarkupCompile.cache
+D:\学习\C#\CalculatorForm\CalculatorForm\obj\Debug\CalculatorForm_MarkupCompile.lref
+D:\学习\C#\CalculatorForm\CalculatorForm\obj\Debug\MainWindow.baml
+D:\学习\C#\CalculatorForm\CalculatorForm\obj\Debug\CalculatorForm.g.resources
+D:\学习\C#\CalculatorForm\CalculatorForm\obj\Debug\CalculatorForm.Properties.Resources.resources
+D:\学习\C#\CalculatorForm\CalculatorForm\obj\Debug\CalculatorForm.csproj.GenerateResource.cache
+D:\学习\C#\CalculatorForm\CalculatorForm\obj\Debug\CalculatorForm.csproj.CoreCompileInputs.cache
+D:\学习\C#\CalculatorForm\CalculatorForm\obj\Debug\CalculatorForm.exe
+D:\学习\C#\CalculatorForm\CalculatorForm\obj\Debug\CalculatorForm.pdb

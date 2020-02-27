@@ -1,0 +1,24 @@
+﻿<Window x:Class="CalculatorForm.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CalculatorForm"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="299.261" Width="824.384">
+    <Grid Background="#FF91A9E2" Margin="0,0,3.6,2.2">
+        <Label HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <ComboBox x:Name="Sigh" HorizontalAlignment="Left" Margin="276,112,0,0" VerticalAlignment="Top" SelectionChanged="ComboBox_SelectionChanged" RenderTransformOrigin="3.343,0.899" Padding="5,3">
+            <ComboBoxItem Content="*"/>
+            <ComboBoxItem Content="-"/>
+            <ComboBoxItem Content="*"/>
+            <ComboBoxItem Content="/"/>
+        </ComboBox>
+        <Label Content="=" HorizontalAlignment="Left" Margin="496,109,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.136,4.19" Padding="5"/>
+        <TextBox x:Name="Para1" HorizontalAlignment="Left" Height="23" Margin="120,110,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged" RenderTransformOrigin="0.502,6.097" Padding="5,0,0,0"/>
+        <TextBox x:Name="Para2" HorizontalAlignment="Left" Height="23" Margin="344,110,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged" RenderTransformOrigin="0.502,6.097" Padding="5,0,0,0"/>
+        <TextBox x:Name="Result" HorizontalAlignment="Left" Height="23" Margin="536,110,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged" RenderTransformOrigin="0.502,6.097" Padding="5,0,0,0" IsEnabled="False"/>
+        <Button x:Name="CalculateBtn" Content="计算" HorizontalAlignment="Left" Margin="536,176,0,0" VerticalAlignment="Top" Width="103" RenderTransformOrigin="1.561,2.941" Height="33" Click="Button_Click"/>
+
+    </Grid>
+</Window>
